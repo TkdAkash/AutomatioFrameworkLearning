@@ -1,0 +1,5 @@
+19:37:23.552 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login Link
+19:37:23.921 [main] INFO  testCases.TC_002_LoginTest - Emial entered successfully
+19:37:24.046 [main] INFO  testCases.TC_002_LoginTest - Password eneterd successfully
+19:37:24.144 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+19:37:34.222 [main] ERROR testCases.TC_002_LoginTest - Login test failed

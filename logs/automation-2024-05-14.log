@@ -1,0 +1,61 @@
+17:44:31.191 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+17:44:31.194 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug
+17:45:05.971 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+17:45:05.975 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug
+17:45:11.057 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount Link
+17:45:11.609 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login Link
+17:45:17.906 [main] INFO  testCases.TC_002_LoginTest - Emial entered successfully
+17:45:17.962 [main] INFO  testCases.TC_002_LoginTest - Password eneterd successfully
+17:45:18.015 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+17:45:28.077 [main] ERROR testCases.TC_002_LoginTest - Login test failed
+18:50:18.140 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:50:18.156 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug
+18:50:23.305 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount Link
+18:50:23.807 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login Link
+18:50:24.112 [main] INFO  testCases.TC_002_LoginTest - Emial entered successfully
+18:50:24.242 [main] INFO  testCases.TC_002_LoginTest - Password eneterd successfully
+18:50:24.377 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+18:50:34.457 [main] ERROR testCases.TC_002_LoginTest - Login test failed
+18:50:58.992 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:50:59.007 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug
+18:51:04.120 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount Link
+18:51:04.612 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login Link
+18:51:04.968 [main] INFO  testCases.TC_002_LoginTest - Emial entered successfully
+18:51:05.092 [main] INFO  testCases.TC_002_LoginTest - Password eneterd successfully
+18:51:05.208 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+18:51:15.293 [main] ERROR testCases.TC_002_LoginTest - Login test failed
+18:53:25.243 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:53:25.249 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug
+18:53:30.418 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount Link
+18:53:31.904 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login Link
+18:53:39.628 [main] INFO  testCases.TC_002_LoginTest - Emial entered successfully
+18:53:39.792 [main] INFO  testCases.TC_002_LoginTest - Password eneterd successfully
+18:53:39.943 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+18:53:50.011 [main] ERROR testCases.TC_002_LoginTest - Login test failed
+18:54:22.919 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:54:22.936 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug
+18:54:28.227 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount Link
+18:54:29.869 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login Link
+18:54:37.684 [main] INFO  testCases.TC_002_LoginTest - Emial entered successfully
+18:54:37.885 [main] INFO  testCases.TC_002_LoginTest - Password eneterd successfully
+18:54:38.063 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+19:16:39.457 [main] ERROR testCases.TC_002_LoginTest - Login test failed
+19:18:47.264 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:18:47.274 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug
+19:18:52.486 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount Link
+19:18:54.194 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login Link
+19:19:02.146 [main] INFO  testCases.TC_002_LoginTest - Emial entered successfully
+19:19:02.397 [main] INFO  testCases.TC_002_LoginTest - Password eneterd successfully
+19:19:02.594 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+19:19:12.682 [main] ERROR testCases.TC_002_LoginTest - Login test failed
+19:20:09.978 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:20:09.991 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug
+19:20:15.198 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount Link
+19:20:15.779 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login Link
+19:20:16.233 [main] INFO  testCases.TC_002_LoginTest - Emial entered successfully
+19:20:16.452 [main] INFO  testCases.TC_002_LoginTest - Password eneterd successfully
+19:20:16.577 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+19:20:26.619 [main] ERROR testCases.TC_002_LoginTest - Login test failed
+19:37:17.717 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:37:17.737 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug
+19:37:22.960 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount Link
